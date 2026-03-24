@@ -7,10 +7,3 @@ Student Performance Intelligence System using Machine Learning and Deep Learning
 
 - Correlation Heatmap
 - Feature Importance Ranking
-```bash
-python src/eda_analysis.py
-
-```bash
-git add .
-git commit -m "Added EDA and correlation analysis module"
-git push origin main
